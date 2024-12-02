@@ -1,2 +1,2 @@
-# Flex
-everything to do with the flex box
+# flex-center
+everything to do with centering the flex box
