@@ -1,2 +1,2 @@
-# flex-center
-put the flexbox in the center
+# Flex
+everything to do with the flex box
